@@ -1,2 +1,2 @@
 # Scripts
-Scripts I use almost on a daily basis
+Utility scripts I use almost on a daily basis
